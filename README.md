@@ -20,3 +20,7 @@
   4.insert the specified element at the end of a linked list o/p : https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_1c4.png
 
   5.swaps two elements ( first and third elements ) in a linked list o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_1c5.png
+
+ 2a.o/p:
+
+2b.o/p:
