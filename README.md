@@ -33,7 +33,7 @@
 
 3.reverseString() o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_3b3.png
 
-4.palindraomecheck o/p: 
+4.palindraomecheck o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_3b4.png
 
 5.removeWhitespace() o/p:
 
