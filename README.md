@@ -27,7 +27,7 @@
 
 3a. o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_3a.png
 
-3b.1.isNullOrEmpty() o/p:
+3b.1.isNullOrEmpty() o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_3b1.png
 
 2.countOccurrences() o/p: 
 
