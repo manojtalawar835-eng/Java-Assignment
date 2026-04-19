@@ -47,7 +47,7 @@
 
   5.countwords o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_3c5.png
 
-  4a.welcome to swings o/p:
+  4a.welcome to swings o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_4a.png
   
    4b. buttonexample o/p: 
    
