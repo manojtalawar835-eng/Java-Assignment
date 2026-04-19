@@ -52,3 +52,12 @@
    4b. buttonexample o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_4b.png
    
    4c.imangeexample o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_4c.png
+
+
+ 5a. countrylist o/p : 
+   
+  5b. RED, BLUE and GREEN o/p : 
+
+  5c. countrycapital : 
+  
+  5d.colorpanel o/p: 
