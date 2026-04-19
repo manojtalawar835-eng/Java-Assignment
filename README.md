@@ -10,3 +10,15 @@
   4.1st and 2nd from the ArrayList object by using SubList() o/p https: https://github.com/manojtalawar835-eng/Java-      Assignment/blob/main/output_1b4.png
 
   5.ArrayList object by using remove by index o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_1b5.png
+
+
+
+  1c.1 specified position ( 2nd) using iterator o/p :
+
+2.iterate through all elements in a linked list o/p:
+
+3.iterate a linked list in reverse order o/p :
+
+4.insert the specified element at the end of a linked list o/p : https:
+
+5.swaps two elements ( first and third elements ) in a linked list o/p: 
