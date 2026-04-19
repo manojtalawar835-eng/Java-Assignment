@@ -23,4 +23,4 @@
 
  2a.o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_2a.png
 
-2b.o/p:
+2b.o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_2b.png
