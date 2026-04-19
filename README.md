@@ -31,7 +31,7 @@
 
 2.countOccurrences() o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_3b2.png
 
-3.reverseString() o/p: 
+3.reverseString() o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_3b3.png
 
 4.palindraomecheck o/p: 
 
