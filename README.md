@@ -17,7 +17,7 @@
 
 2.iterate through all elements in a linked list o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_1c2.png
 
-3.iterate a linked list in reverse order o/p :
+3.iterate a linked list in reverse order o/p : https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_1c3.png
 
 4.insert the specified element at the end of a linked list o/p : https:
 
