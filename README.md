@@ -13,7 +13,7 @@
 
 
 
-  1c.1 specified position ( 2nd) using iterator o/p :
+  1c.1 specified position ( 2nd) using iterator o/p : https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_1c1.png
 
 2.iterate through all elements in a linked list o/p:
 
