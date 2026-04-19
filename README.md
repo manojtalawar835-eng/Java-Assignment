@@ -43,7 +43,7 @@
 
   3.isNumeric() O/P: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_3c3.png
 
-  4.Random String o/p : 
+  4.Random String o/p :  https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_3c4.png
 
   5.countwords o/p: 
 
