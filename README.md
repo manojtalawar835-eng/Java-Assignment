@@ -5,7 +5,7 @@
 
 2.color "Blue" from the ArrayList o/p:https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_1b2.png
 
-3.Collections.sort( ArrayListObj) o/p: 
+3.Collections.sort( ArrayListObj) o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_1b3.png
 
 4.1st and 2nd from the ArrayList object by using SubList() o/p https:
 
