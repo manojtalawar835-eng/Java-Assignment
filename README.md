@@ -29,22 +29,22 @@
 
 3b.1.isNullOrEmpty() o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_3b1.png
 
-2.countOccurrences() o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_3b2.png
+   2.countOccurrences() o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_3b2.png
 
-3.reverseString() o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_3b3.png
+   3.reverseString() o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_3b3.png
 
-4.palindraomecheck o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_3b4.png
+   4.palindraomecheck o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_3b4.png
 
-5.removeWhitespace() o/p:
+   5.removeWhitespace() o/p:https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_3b5.png
 
 3c.1 capitalizeWords() o/p: 
 
-2.stringTurncate o/p: 
+  2.stringTurncate o/p: 
 
-3.isNumeric() O/P:
+  3.isNumeric() O/P:
 
-4.Random String o/p : 
+  4.Random String o/p : 
 
-5.countwords o/p: 
+  5.countwords o/p: 
 
-4.welcome to swings o/p:
+  4.welcome to swings o/p:
