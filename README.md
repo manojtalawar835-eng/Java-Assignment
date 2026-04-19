@@ -39,7 +39,7 @@
 
 3c.1 capitalizeWords() o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_3c1.png
 
-  2.stringTurncate o/p: 
+  2.stringTurncate o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_3c2.png
 
   3.isNumeric() O/P:
 
