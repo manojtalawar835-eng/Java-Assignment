@@ -24,3 +24,27 @@
  2a.o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_2a.png
 
 2b.o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_2b.png
+
+3a. 
+
+3b.1.isNullOrEmpty() o/p:
+
+2.countOccurrences() o/p: 
+
+3.reverseString() o/p: 
+
+4.palindraomecheck o/p: 
+
+5.removeWhitespace() o/p:
+
+3c.1 capitalizeWords() o/p: 
+
+2.stringTurncate o/p: 
+
+3.isNumeric() O/P:
+
+4.Random String o/p : 
+
+5.countwords o/p: 
+
+4.welcome to swings o/p:
