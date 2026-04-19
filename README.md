@@ -51,4 +51,4 @@
   
    4b. buttonexample o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_4b.png
    
-   4c.imangeexample o/p: 
+   4c.imangeexample o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_4c.png
