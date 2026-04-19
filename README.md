@@ -54,10 +54,12 @@
    4c.imangeexample o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_4c.png
 
 
- 5a. countrylist o/p : 
+ 5a. countrylist o/p : https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_5a1.png                                                       https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_5a2.png
    
-  5b. RED, BLUE and GREEN o/p : 
+    5b. RED, BLUE and GREEN o/p : https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_5b.png
 
-  5c. countrycapital : 
+
+    5c. countrycapital : https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_5c1.png                                                       https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_5c2.png
+
   
-  5d.colorpanel o/p: 
+    5d.colorpanel o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_5d.png
