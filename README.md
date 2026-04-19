@@ -49,6 +49,6 @@
 
   4a.welcome to swings o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_4a.png
   
-   4b. buttonexample o/p: 
+   4b. buttonexample o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_4b.png
    
    4c.imangeexample o/p: 
