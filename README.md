@@ -25,7 +25,7 @@
 
 2b.o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_2b.png
 
-3a. 
+3a. o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_3a.png
 
 3b.1.isNullOrEmpty() o/p:
 
