@@ -37,7 +37,7 @@
 
    5.removeWhitespace() o/p:https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_3b5.png
 
-3c.1 capitalizeWords() o/p: 
+3c.1 capitalizeWords() o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_3c1.png
 
   2.stringTurncate o/p: 
 
