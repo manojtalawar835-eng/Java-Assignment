@@ -45,6 +45,6 @@
 
   4.Random String o/p :  https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_3c4.png
 
-  5.countwords o/p: 
+  5.countwords o/p: https://github.com/manojtalawar835-eng/Java-Assignment/blob/main/output_3c5.png
 
   4.welcome to swings o/p:
